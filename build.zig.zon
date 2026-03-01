@@ -1,0 +1,12 @@
+.{
+    .name = .titan,
+    .version = "0.1.0",
+    .fingerprint = 0x94adfae65bdecac,
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "LICENSE",
+        "README.md",
+    },
+}
